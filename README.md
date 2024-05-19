@@ -1,5 +1,7 @@
 # connect-html-css-js-with-adv-java
 
+https://docs.google.com/document/d/1yY0FYEJHj4D9aMZskxlzgWuzOQrNU8JJMaM83Qn04Ns/edit?usp=sharing
+
 # Setting up frontend
 
 # Index.html
